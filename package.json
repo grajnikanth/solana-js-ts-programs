@@ -1,0 +1,19 @@
+{
+  "name": "js-ts-web3-progs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "@solana/spl-token": "^0.2.0",
+    "@solana/web3.js": "^1.44.3"
+  }
+}
