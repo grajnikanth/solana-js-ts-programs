@@ -7,7 +7,9 @@ Contains typescript code for basic programs as follows:
 4. Create and Mint new SPL tokens and tranfer them
 
 To compile the program and create javascript code run command
+
 npm run build
 
 To execute the various programs use the command
+
 node ./dist/{folder}/index.js
